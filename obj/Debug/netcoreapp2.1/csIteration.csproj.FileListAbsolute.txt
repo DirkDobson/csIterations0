@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#practice/csIteration/bin/Debug/netcoreapp2.1/csIteration.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csIteration/bin/Debug/netcoreapp2.1/csIteration.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csIteration/bin/Debug/netcoreapp2.1/csIteration.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csIteration/bin/Debug/netcoreapp2.1/csIteration.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csIteration/bin/Debug/netcoreapp2.1/csIteration.pdb
+/Users/dirkvancouver/Desktop/Projects/c#practice/csIteration/obj/Debug/netcoreapp2.1/csIteration.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csIteration/obj/Debug/netcoreapp2.1/csIteration.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csIteration/obj/Debug/netcoreapp2.1/csIteration.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csIteration/obj/Debug/netcoreapp2.1/csIteration.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#practice/csIteration/obj/Debug/netcoreapp2.1/csIteration.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csIteration/obj/Debug/netcoreapp2.1/csIteration.pdb
